@@ -3,8 +3,7 @@ Ibrahim = "Hello Ibrahim, i am taking Some Python classes"
 print(Ibrahim)
 print(Ibrahim.lower()) #print LowerCase
 print(Ibrahim.upper()) #Print UpperCase
-print(Ibrahim.title())\
-
+print(Ibrahim.title())
 
 # b Find a quote from a famous person you admire and store the famous person’s name in a variable called famous_person. Then compose your message and store it in a new variable called message. Print your message with the quote and the name of its author. Your output should look something like the following, including the quotation marks: Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 famous_person = 'Theodore Roosevelt'
